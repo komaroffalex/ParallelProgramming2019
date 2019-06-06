@@ -1,0 +1,3 @@
+﻿  openmp.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  openmp.vcxproj -> C:\Users\Alex Komarov\Desktop\paral\openmp\x64\Debug\openmp.exe
